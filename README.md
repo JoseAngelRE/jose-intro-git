@@ -1,1 +1,1 @@
-Este es un gran taller
+Este es un pesimo taller
